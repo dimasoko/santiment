@@ -153,14 +153,3 @@ pip install fasttext-wheel
 
 ### Ошибка "Microsoft Visual C++ required"
 Установите [Build Tools for Visual Studio](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
-
-### Модель не скачивается
-Проверьте интернет-соединение или используйте VPN (если Hugging Face заблокирован)
-
-## Лицензия
-
-MIT
-
-## Автор
-
-Проект создан в рамках курса по анализу данных
